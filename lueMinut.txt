@@ -1,0 +1,3 @@
+Lataa .exe loppunen versio jdk-22:sta:
+https://www.oracle.com/java/technologies/downloads/#jdk22-windows
+Kansion pitäisi latautua osoitteeseen: C:Programfiles/Java/jdk-22, ota tämä jdk-22 kansio ja siirrä se krenel kansioon krenel.exe-tiedoston viereen, pitäisi sitten toimia.
